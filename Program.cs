@@ -82,6 +82,8 @@ namespace meuPrimeiroGit
         public static void listar()
         {
             listaAluno();
+            // verificar com o professor em aula esse erro
+
         }
 
         private void listaAluno(string[] nome, int[] idade)
