@@ -83,7 +83,6 @@ namespace meuPrimeiroGit
         {
             listaAluno();
             // verificar com o professor em aula esse erro
-
         }
 
         private void listaAluno(string[] nome, int[] idade)
@@ -99,6 +98,7 @@ namespace meuPrimeiroGit
         public static void fechar()
         {
             // comando utilizado para fechar o programa direto
+            Console.WriteLine("programa finalizado, até mais!!!!");
             Environment.Exit(0);
         }
 
