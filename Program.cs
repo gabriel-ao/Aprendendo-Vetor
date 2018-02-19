@@ -8,6 +8,8 @@ namespace meuPrimeiroGit
 {
     class Program
     {
+        public int idade;
+        public string nome;
         static void Main(string[] args)
         {
             menu();
